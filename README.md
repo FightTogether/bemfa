@@ -3,7 +3,8 @@
 修复高版本HA的mqtt版本不兼容导致的bemfa插件失效问题 25/09/10
 修复参考（https://bbs.hassbian.com/thread-29794-1-1.html）帖子和评论
 ##如果你感觉本文对你有帮助，请关注公众号
-![Uploading 扫码_搜索联合传播样式-标准色版.png…]()
+[![hacs_badge](扫码_搜索联合传播样式-标准色版.png)]
+
 
 ## 功能
 将 Home Assistant 实体同步至巴法云，并使用小爱同学/天猫精灵/小度音箱控制。
